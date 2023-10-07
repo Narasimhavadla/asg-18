@@ -1,0 +1,24 @@
+.list-group{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    margin: 90px;
+}
+
+.row{
+    /* width: 900px; */
+    /* margin: 0px auto; */
+}
+.boxer{
+    width: 800px;
+    height: 600px;
+    border: 2px solid black;
+    margin-top: -80px !important;
+    overflow-y: auto;
+
+}
+.mini{
+    overflow-y:auto ;
+    height: 400px;
+}
